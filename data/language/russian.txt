@@ -47,7 +47,7 @@ STR_0042    :Top Spin
 STR_0043    :Космические кольца
 STR_0044    :Обратное подение
 STR_0045    :Лифт
-STR_0046    :Vertical Drop Roller Coaster
+STR_0046    :Горки с Вертикальном Падением
 STR_0047    :Банкомат
 STR_0048    :Раскрутка
 STR_0049    :Дом с привидениями
@@ -56,13 +56,13 @@ STR_0051    :Цирковое представление
 STR_0052    :Призрачный поезд
 STR_0053    :Стальные извивающиеся горки
 STR_0054    :Деревянные горки
-STR_0055    :Side-Friction Roller Coaster
+STR_0055    :Горки с Трением Сторон
 STR_0056    :Дикая мышь
 STR_0057    :Мультипространственные горки
 STR_0058    :Неизвестный атракцион (38)
 STR_0059    :Парящие горки
 STR_0060    :Неизвестный атракцион (3A)
-STR_0061    :Virginia Reel
+STR_0061    :Бочонки Виргинии
 STR_0062    :Лодки с брызгами
 STR_0063    :Мини-вертолётики
 STR_0064    :Лежачие горки
@@ -72,14 +72,14 @@ STR_0067    :Обратные горки
 STR_0068    :Кардиограмные переплетёные горки
 STR_0069    :Мини-гольф
 STR_0070    :Огромные горки
-STR_0071    :Roto-Drop
+STR_0071    :Поворотное Падение
 STR_0072    :Летающие блюдца
 STR_0073    :Дом кривых зеркал
 STR_0074    :Монорельсовые велосипеды
 STR_0075    :Компактные инвертированые горки
 STR_0076    :Водные горки
 STR_0077    :Вертикальные горки на воздушной тяги
-STR_0078    :Inverted Hairpin Coaster
+STR_0078    :Подвесние Горки с Крутими Поворотими
 STR_0079    :Ковёр-самолёт
 STR_0080    :Заплыв на подводной лодке
 STR_0081    :Речной рафтинг
@@ -555,8 +555,8 @@ STR_0550    :
 STR_0551    :
 STR_0552    :
 STR_0553    :
-STR_0554    :The car is accelerated out of the station along a long level track using Linear Induction Motors, then heads straight up a vertical spike of track, freefalling back down to return to the station
-STR_0555    :Guests ride in an elevator up or down a vertical tower to get from one level to another
+STR_0554    :Багонетки ускоряются из станции по длинам путям с помощи ЛИМ, потом едут вверх по вертикальной частью пути, переходя с свободним падением.
+STR_0555    :пассажири едут по-лифту или вверх или вниз, чтобы приходить от одной уровня до другой.
 STR_0556    :Extra-wide cars descend completely vertical sloped track for the ultimate freefall roller coaster experience
 STR_0557    :
 STR_0558    :
